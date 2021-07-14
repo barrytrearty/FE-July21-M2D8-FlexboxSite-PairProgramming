@@ -162,3 +162,22 @@ h2 {
   margin-left: auto;
   margin-right: 0;
 }
+
+/* TARUN */
+h1.tarun,
+p.tarun {
+  text-align: center;
+}
+#contbg > h1 > span.tarun {
+  background-color: rgb(192, 188, 188);
+}
+#contbg > p > span.tarun {
+  background-color: rgb(184, 182, 182);
+}
+a.tarun {
+  color: gray;
+  text-decoration: null;
+}
+a.tarun:hover {
+  color: gray;
+}
